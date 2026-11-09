@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.output/
+.wrangler/
+.tanstack/
+*.log
+.DS_Store
+.dev.vars
+.env
+.env.*
+
+# Gerados
+worker-configuration.d.ts

@@ -1,0 +1,44 @@
+{
+  "hero": {
+    "file": "images/inicio/hero.jpg",
+    "alt": "Cachorro pequeno de pijama em fundo amarelo",
+    "ratio": "4:5 (vertical)",
+    "unsplash": ["Qb7D1xw28Co", "g2FtlFrc164"],
+    "prompt": "Small happy dog with a fresh groomed look wearing a cute bandana, sitting on a solid egg-yolk yellow background, studio portrait, playful, bright cheerful light, Brazilian neighborhood pet shop, realistic photography, no text, no logos"
+  },
+  "banho": {
+    "file": "images/servicos/banho.jpg",
+    "alt": "Schnauzer cinza e branco recém-tosado",
+    "ratio": "4:3 (horizontal)",
+    "unsplash": ["8g0D8ZfFXyA", "qO-PIF84Vxg"],
+    "prompt": "Groomer drying a fluffy small dog with a blow dryer on a grooming table, dog calm, clean modern grooming room, bright cheerful light, Brazilian neighborhood pet shop, realistic photography, no text, no logos"
+  },
+  "gato": {
+    "file": "images/inicio/gato.jpg",
+    "alt": "Gato de pelo longo branco e marrom",
+    "ratio": "1:1 (quadrada)",
+    "unsplash": ["ZCHj_2lJP00", "K1Tmy4VXr8U"],
+    "prompt": "Long-haired cat relaxing on a scratching post tower inside a pet shop, soft light, bright cheerful light, Brazilian neighborhood pet shop, realistic photography, no text, no logos"
+  },
+  "brinquedo": {
+    "file": "images/inicio/brinquedo.jpg",
+    "alt": "Cachorro segurando um elefante de pelúcia",
+    "ratio": "1:1 (quadrada)",
+    "unsplash": ["g2FtlFrc164"],
+    "prompt": "Golden retriever mix holding a plush toy in its mouth, happy, plain background, bright cheerful light, Brazilian neighborhood pet shop, realistic photography, no text, no logos"
+  },
+  "filhote": {
+    "file": "images/inicio/filhote.jpg",
+    "alt": "Filhote de shih tzu correndo na grama",
+    "ratio": "3:2 (horizontal)",
+    "unsplash": ["qO-PIF84Vxg", "aI3EBLvcyu4"],
+    "prompt": "White shih tzu puppy running on green grass toward the camera, joyful, bright cheerful light, Brazilian neighborhood pet shop, realistic photography, no text, no logos"
+  },
+  "loja": {
+    "file": "images/inicio/loja.jpg",
+    "alt": "Gato deitado na vitrine de uma loja",
+    "ratio": "3:2 (horizontal)",
+    "unsplash": ["K1Tmy4VXr8U", "F3lBkL_y9KY"],
+    "prompt": "Front of a small colorful neighborhood pet shop with products on shelves visible through the window, a cat in the window, bright cheerful light, Brazilian neighborhood pet shop, realistic photography, no text, no logos"
+  }
+}

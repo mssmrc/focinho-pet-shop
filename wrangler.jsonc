@@ -1,0 +1,11 @@
+{
+  // Configuração do Cloudflare Workers.
+  // Endereço depois do deploy: https://focinho-pet-shop.<sua-conta>.workers.dev
+  // (ou um domínio/subdomínio próprio em Workers → Settings → Domains & Routes).
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "focinho-pet-shop",
+  "compatibility_date": "2026-10-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "main": "src/server.ts",
+  "observability": { "enabled": true },
+}
